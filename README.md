@@ -1,5 +1,5 @@
 # PASSWIT
-Performance Monitnoring SSAS Tabular
+Performance Monitnoring SSAS Tabular.
 This material is from my presentaion at PASSWIT virtual chapter on 12/05/2018.
 Sample code provided has to change a little bit to work on your machine.
 The Performance_Monitoring SQL database provided here is only an example. It has some sample data in it.
